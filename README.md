@@ -15,17 +15,19 @@ After thinking critically, three questions need answers:
 2. Which Sales rep has made the highest sales?
 3. Which of our Customers prchased highest sales?
 
-The dataset is an excel file saved locally in a folder. The file is  denormalized with all data in a single table.>>>[denormalised](https://github.com/Data-Dr-hub/Data-Modelling-with-Power-BI/blob/main/SuperStore_Denormalized.xlsx)
+The dataset is an excel file saved locally in a folder. The file is  [denormalised](https://github.com/Data-Dr-hub/Data-Modelling-with-Power-BI/blob/main/SuperStore_Denormalized.xlsx) with all data in a single table.
 
 ## Data Sourcing
-Data was normalized that is, the information was categorically seperated into differnt sheets or tables resulting into 5 tables:
+Data was [normalised](https://github.com/Data-Dr-hub/Data-Modelling-with-Power-BI/blob/main/SuperStore_Normalized.xlsx) that is, the information was categorically seperated into differnt sheets or tables resulting into 5 tables:
 - Sales
 - Customers
 - Sales Reps
 - Location
 - Products
 
- Data was then locally extracted from Excel Workbook into Power BI for transformation, analysis and visualization.
+
+
+Data was then locally extracted from Excel Workbook into Power BI for transformation, analysis and visualization.
 
 ## Data Transformation
 
