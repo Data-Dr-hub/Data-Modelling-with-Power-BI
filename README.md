@@ -10,12 +10,12 @@ An international company in the United States wishes to build an Headquatre Offi
 At the opening event, the stakeholders wish to award the customer with highest sales and also to appoint the best salesrep( i.e the salesrep that has made the highest sales) as the new Sales manager of the new headquatre.
 The stakeholders have hereby entrusted "data_doctor" with carrying out a quick analysis and report.
 
-After thinking critically, three pquestions need answers:
+After thinking critically, three questions need answers:
 1. Which Region/location has the highest sales made?
 2. Which Sales rep has made the highest sales?
 3. Which of our Customers prchased highest sales?
 
-The dataset is an excel file saved locally in a folder. The file is  denormalized with all data in a single table.
+The dataset is an excel file saved locally in a folder. The file is  denormalized with all data in a single table.>>>[denormalised](https://github.com/Data-Dr-hub/Data-Modelling-with-Power-BI/blob/main/SuperStore_Denormalized.xlsx)
 
 ## Data Sourcing
 Data was normalized that is, the information was categorically seperated into differnt sheets or tables resulting into 5 tables:
@@ -29,7 +29,7 @@ Data was normalized that is, the information was categorically seperated into di
 
 ## Data Transformation
 
-Data cleaning was done per table.
+Data cleaning was performed per table.
 The table appeared to be clean, however, 
 For the Customers and Products Table, first rows were not headers and so resolved that by applying the "Use First row as header" action.
 column datatypes were validated appropriately.
