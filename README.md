@@ -44,7 +44,7 @@ Sales Table has been modelled with:
 - Products Table using "Product ID"
 - Customers Tables via "Customer ID"
 
-![mod](Data Modelling.png)
+![model](mod.png)
 
 
 ## Data Aanalysis/ Visualization
@@ -54,7 +54,7 @@ Analysis was done using simple visuals since the tables have been perfectly mode
 
 ![ByLocation](SalesByRegion.png)
 
-**The western region had the highest sales with over 720k dollars.
+#### The western region had the highest sales with over 720k dollars.
 
 Since only one headquatres would be built, I then had to drill down the regions to know the exact city with the highest sales.
 
@@ -63,12 +63,14 @@ Since only one headquatres would be built, I then had to drill down the regions 
 With further visual analysis, It is interesting to discover that the City with the hihgest sales is not even situated in the Western region,
 but in the eastern region and that is NewYork with a sales of over 250k dollars.
 
-**Sales by SalesReps
-![BySalesRep](SalesRep_pie.png)
+## Sales by SalesReps
+
+![BySalesRep](pie.png)
 
 Wow! ORGANIC has made over 1.4M dollars for the company. AMAZING.
 
-**Sales By Customers
+## Sales By Customers
+
 ![ByCustomers](SalesByCustomer.png)
 
 Obviously, Sean Miller happens to be the man in love with our company. It will be nice to encourage him by an award or a considerable discount for subsequent/future sales.
