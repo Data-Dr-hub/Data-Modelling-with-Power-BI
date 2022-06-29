@@ -1,6 +1,6 @@
 # Data-Modelling-with-Power-BI
 
-![Modelling](power.png)
+![Modelling](Power.jpg)
 
 ## Introduction
 This project is to display my data modelling skills acquired in the data analytics track of the NG30days of learning using POWER BI.The problem satatement is an imaginary case scenario I thought about after seeing the dataset. 
