@@ -1,6 +1,5 @@
 # Data-Modelling-with-Power-BI
 
-
 ## Introduction
 This project is to display my data modelling skills acquired in the data analytics track of the NG30days of learning using POWER BI.The problem satatement is an imaginary case scenario I thought about after seeing the dataset. 
 
@@ -34,7 +33,7 @@ For the Customers and Products Table, first rows were not headers and so resolve
 column datatypes were validated appropriately.
 column quality and profiles checked for valid, errors and emptiness and cleaned accordingly.
 
-## DATA MODEL DESIGN
+## Data Model Design
 The data required to answer the questions of the stakeholders are located in various tables.
 Therfore, appropriate modelling is required.
 The Sales Table is the dimensions table containing all redundant data, and to which other required tables are modelled or connected to, using the 
@@ -45,23 +44,39 @@ Sales Table has been modelled with:
 - Products Table using "Product ID"
 - Customers Tables via "Customer ID"
 
+![model](Data Modelling.png)
+
+
 ## Data Aanalysis/ Visualization
 Analysis was done using simple visuals since the tables have been perfectly modelled together.
 
-VIZ 1. --Sales By Location:
-The western region had the highest sales with over $720k.
-Since only one headquatres would be built, I then had to drill down the region to know the exact city with the highest sales.
-with further visual analysis, It is interesting to discover that the City with the hihgest sales is not even situated in the Western region,
-but in the eastern region and that is NewYork with a sales of over $250k.
+## Sales By Region
 
-VIZ 2. Sales by SalesRep:
+![ByLocation](SalesByRegion.png)
+
+**The western region had the highest sales with over 720k dollars.
+
+Since only one headquatres would be built, I then had to drill down the regions to know the exact city with the highest sales.
+
+![SalesByCity](SalesByCity.png)
+
+With further visual analysis, It is interesting to discover that the City with the hihgest sales is not even situated in the Western region,
+but in the eastern region and that is NewYork with a sales of over 250k dollars.
+
+**Sales by SalesReps
+![BySalesRep](SalesRep_pie.png)
+
 Wow! ORGANIC has made over 1.4M dollars for the company. AMAZING.
 
-VIZ 3. Sales By Customers:
+**Sales By Customers
+![ByCustomers](SalesByCustomer.png)
+
 Obviously, Sean Miller happens to be the man in love with our company. It will be nice to encourage him by an award or a considerable discount for subsequent/future sales.
 
 ## Recommendations
+- **NewYork City** is appropriate location/City to build the Office Headquatres 
+- **Organic** has made the highest sales with a wide gap. We might need to interview Organic, I mean is there anythimg he is doing that the others are not?
+- **Sean Miller** is the most precious customer at the moment and needs tp be compensated either by an award or consierable discounts on subsequent sales. 
 
 
-
-My goal is to provide value to stakeholders and not just build reports
+*My goal is to provide value to stakeholders and not just build reports
