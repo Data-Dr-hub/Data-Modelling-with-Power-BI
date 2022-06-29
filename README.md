@@ -44,7 +44,7 @@ Sales Table has been modelled with:
 - Products Table using "Product ID"
 - Customers Tables via "Customer ID"
 
-![model](Data Modelling.png)
+![mod](Data Modelling.png)
 
 
 ## Data Aanalysis/ Visualization
