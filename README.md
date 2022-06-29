@@ -40,8 +40,7 @@ column quality and profiles checked for valid, errors and emptiness and cleaned 
 ## Data Model Design
 The data required for this analysis are located in various tables.
 Therfore, appropriate modelling is required.
-The Sales Table is the dimensions table containing all redundant data, and to which other required tables are modelled or connected to, using the 
-column that is common.
+A star Schema is designed with the Sales Table representing the fact table containing all redundant data, and to which other dimension tables are modelled or connected to, using the column that is common.
 Sales Table has been modelled with:
 - SalesRep Table using the "SalesRep ID"
 - Locations Table using the "Location ID"
