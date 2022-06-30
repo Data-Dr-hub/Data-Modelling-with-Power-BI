@@ -70,8 +70,11 @@ but in the eastern region and that is NewYork with a sales of over 250k dollars.
 
 ![BySalesRep](pie.png)
 
-Hmmm! something seems not to be right here. "ORGANIC" is definitely an outier. After making more enquiries from the stakeholders, I got to know that the term "Organic" refers to sales made without salesreps. Then, we need to exclude it from the report. And now this:
-![]
+Hmmm! something seems not to be right here. "ORGANIC" is definitely an outier. After making more enquiries from the stakeholders, I got to know that the term "Organic" refers to sales made without the help of the salesreps and should thus be excluded:
+
+![](salesrep.PNG)
+
+Morris Garcia has the highest sales.
 
 ## Sales By Customers
 
@@ -81,7 +84,7 @@ Obviously, Sean Miller happens to be the man in love with our company. It will b
 
 ## Conclusions/Recommendations
 - **NewYork City** is appropriate location/City to build the Office Headquatres 
-- **Organic** has made the highest sales with a wide gap. We might need to interview Organic, I mean is there anythimg he is doing that the others are not?
+- **Morris Garcia** should be the Sales Manager for the new headquatre Office.
 - **Sean Miller** is the most precious customer at the moment and needs tp be compensated either by an award or consierable discounts on subsequent sales. 
 ------
 
