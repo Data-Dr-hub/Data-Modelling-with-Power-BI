@@ -70,7 +70,8 @@ but in the eastern region and that is NewYork with a sales of over 250k dollars.
 
 ![BySalesRep](pie.png)
 
-Wow! ORGANIC has made over 1.4M dollars for the company. AMAZING.
+Hmmm! something seems not to be right here. "ORGANIC" is definitely an outier. After making more enquiries from the stakeholders, I got to know that the term "Organic" refers to sales made without salesreps. Then, we need to exclude it from the report. And now this:
+![]
 
 ## Sales By Customers
 
