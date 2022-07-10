@@ -80,7 +80,7 @@ Morris Garcia has the highest sales.
 
 ## Sales By Customers
 
-![](top10Customers.png)
+![](top10customers.PNG)
 
 Obviously, Sean Miller happens to be the man in love with our company. It will be nice to encourage him by an award or a considerable discount for subsequent/future sales.
 
