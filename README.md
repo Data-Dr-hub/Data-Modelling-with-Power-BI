@@ -57,30 +57,30 @@ Analysis was done using simple visuals since the tables have been perfectly mode
 
 ## Sales By Region
 
-![ByLocation](SalesByRegion.png)
+![](regional.PNG)
 
 #### The western region had the highest sales with over 720k dollars.
 
-Since only one headquatres would be built, I then had to drill down the regions to know the exact city with the highest sales.
+Since only one office would be built, I then had to drill down the regions to know the exact city with the highest sales.
 
-![SalesByCity](SalesByCity.png)
+![](topcities.PNG)
 
 With further visual analysis, It is interesting to discover that the City with the hihgest sales is not even situated in the Western region,
 but in the eastern region and that is NewYork with a sales of over 250k dollars.
 
 ## Sales by SalesReps
 
-![BySalesRep](pie.png)
+![](salesorganic.PNG)
 
-Hmmm! something seems not to be right here. "ORGANIC" is definitely an outier. After making more enquiries from the stakeholders, I got to know that the term "Organic" refers to sales made without the help of the salesreps and should thus be excluded:
+Hmmm! something seems not to be right here. "ORGANIC" is definitely an outlier. After making more enquiries from the stakeholders, I got to know that the term "Organic" refers to sales made **without** the help of the salesreps and should thus be excluded:
 
-![](salesrep.PNG)
+![](salesrepSales.PNG)
 
 Morris Garcia has the highest sales.
 
 ## Sales By Customers
 
-![ByCustomers](SalesByCustomer.png)
+![](top10customers.png)
 
 Obviously, Sean Miller happens to be the man in love with our company. It will be nice to encourage him by an award or a considerable discount for subsequent/future sales.
 
