@@ -32,10 +32,12 @@ Data was then locally extracted from Excel Workbook into Power BI for transforma
 ## Data Transformation
 
 Data cleaning was performed per table.
-The table appeared to be clean, however, 
+The table appeared to be clean.
+The quality of each column is 100% with no error or nulls.
+
+
 For the Customers and Products Table, first rows were not headers and so resolved that by applying the "Use First row as header" action.
 column datatypes were validated appropriately.
-column quality and profiles checked for valid, errors and emptiness and cleaned accordingly.
 
 ## Data Model Design
 The data required for this analysis are located in various tables.
