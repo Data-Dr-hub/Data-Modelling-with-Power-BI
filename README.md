@@ -34,7 +34,19 @@ Data was then locally extracted from Excel Workbook into Power BI for transforma
 Data cleaning was performed per table.
 The table appeared to be clean.
 The quality of each column is 100% with no error or nulls.
+Below is a preview of the tables:
 
+Customers Table             |           Location Table
+:--------------------------:|:------------------------:
+![](customerQ.PNG)          |         ![](locationQ.PNG)
+
+Products Table              |        Salesrep Table
+:---------------------------:|:----------------------
+![](productQ.PNG)             |     ![](salesrepQ.PNG)
+
+
+**Sales Table**
+![](salesQ.PNG)
 
 For the Customers and Products Table, first rows were not headers and so resolved that by applying the "Use First row as header" action.
 column datatypes were validated appropriately.
